@@ -1,0 +1,79 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!--codificare usando gli opportuni elementi TEI un articolo di rivista-->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title>Articolo di Repubblica sulla natalità in peiodo di covid</title>
+                <respStmt>
+                    <resp>Conversione TEI P5 a cura di</resp>
+                    <name>Pietro Ricci</name>
+                </respStmt>
+            </titleStmt>
+            <publicationStmt>
+                <date>14-12-2021</date>
+                <avaiability status="restricted"></avaiability> 
+            </publicationStmt>
+            <sourceDesc>
+                <title>Istat, record denatalità: 15mila nascite in meno nel 2020. E già 12.500 nel 2021</title>
+                <publisher>Repubblica</publisher>
+                <date>14-12-2021</date>
+            </sourceDesc>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <p>
+                ROMA - Ancora un record negativo per la natalità: nel 2020 i nati sono 404.892 (-15 Mila sul 2019). 
+                Il calo (-2,5% nei primi 10 mesi dell'anno) si è accentuato a novembre 
+                (-8,3% rispetto allo stesso mese del 2019) e dicembre (-10,7%), mesi in cui si cominciano 
+                a contare le nascite concepite all'inizio dell'ondata epidemica. 
+            </p>
+            <p>
+                Lo rileva l'istat nel bollettino sulla natalità e fecondità della popolazione 
+                residente per l'anno 2020.
+                La denatalità prosegue nel 2021. Secondo i dati provvisori di gennaio-settembre 
+                le minori nascite sono già 12 mila 500, quasi il doppio di quanto osservato nello stesso 
+                periodo del 2020. Il numero medio di figli per donna scende nel 2020 a 1,24 per il complesso
+                delle residenti, da 1,44 negli anni 2008-2010, anni di massimo relativo della fecondità.
+            </p>
+                Il numero medio di figli delle donne di cittadinanza italiana nel 2020 è stato pari a 1,17. 
+                Si tratta del numero più basso di sempre. Dal 2008 le nascite sono diminuite di 171.767 unità (-29,8%). 
+                Il calo è attribuibile per la quasi totalità alle nascite da coppie di genitori entrambi italiani
+                (316.547 nel 2020, oltre 163 mila in meno rispetto al 2008). 
+            </p>
+            <p>
+                Dal 2012 al 2020 sono diminuiti anche i nati con almeno un genitore straniero 
+                (quasi 19 mila in meno) che, con 88.345 unità, costituiscono il 21,8% del totale dei nati, 
+                oltre 4 mila in meno solo nell'ultimo anno.
+            </p>
+            <p>
+                Si tratta di un fenomeno di rilievo, in parte dovuto agli effetti "strutturali"
+                indotti dalle significative modificazioni della popolazione femminile in età feconda,
+                convenzionalmente fissata tra 15 e 49 anni. In questa fascia di popolazione le donne italiane
+                sono sempre meno numerose: da un lato, le cosiddette baby-boomers
+                (ovvero le donne nate tra la seconda metà degli anni Sessanta e la prima metà dei Settanta) 
+                stanno uscendo dalla fase riproduttiva (o si stanno avviando a concluderla); dall'altro, 
+                le generazioni più giovani sono sempre meno consistenti. Queste ultime scontano, infatti, 
+                l'effetto del cosiddetto baby-bust, ovvero la fase di forte calo della fecondità del 
+                ventennio 1976-1995, che ha portato al minimo storico di 1,19 figli per donna nel 1995.
+            </p>
+            <p>
+                A partire dagli anni duemila l'apporto dell'immigrazione, con l'ingresso di popolazione giovane, 
+                ha parzialmente contenuto gli effetti del baby-bust; tuttavia, l'apporto positivo dell'immigrazione 
+                ta lentamente perdendo efficacia man mano che invecchia anche il profilo per età della popolazione 
+                straniera residente.
+            </p> 
+            <p>
+                A diminuire sono soprattutto le nascite all'interno del matrimonio, pari a 
+                259.823 nel 2020, quasi 20 mila in meno rispetto al 2019, 204 mila in meno nel confronto con il 
+                2008 (-44,0 per cento). Ciò è dovuto anche al forte calo dei matrimoni che si è protratto fino a
+                l 2014, anno in cui sono state celebrate appena 189.765
+                nozze (rispetto, ad esempio, al 2008 quando erano 246.613) per poi proseguire con un andamento
+                altalenante.
+            </p>
+        </body>
+    </text>
+</TEI>

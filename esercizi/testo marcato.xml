@@ -1,0 +1,90 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!-- marcare un testo plain text di circa 3000 caratteri a piacere:
+    inserire prologo XML 
+    marcare la struttura usando gli elementi fin qui descritti in particolare marcare tutti i paragrafi usando <p> e la struttura editoriale usando <div>
+    verificare che sia ben formato con xmllint
+    salvare il file XML su github-->
+
+<TEI>
+    <teiHeader>
+        <fileDesc>
+            <titleStmt>
+                <title> Diario inedito </title>
+                <author> Nicola Ricci </author>
+            </titleStmt>
+        </fileDesc>
+    </teiHeader>
+    <text>
+        <body>
+            <div>
+                <pb n="1"/>
+                <p>
+                        CAMPO DI CONCENTRAMENTO DI “ARMESTEIN”
+                    Stalag. IIB, Prussia Orientale, GERMANIA.
+                    25/09/1943
+                    Devo avere la febbre; sento che le tempie mi martellano furiosamente. 
+                    Scrivo ma non so il perché. Non So! Non è volontà, 
+                    ma potenza di una forza misteriosa che spinge la mia mano a vergare queste righe. 
+                    Sarà forse perché qualcheduno leggendo questi fogli, 
+                    abbia un pensiero di compassione per me e per i miei compagni. 
+                </p>
+                <p>
+                    Per tutti coloro che hanno sofferto negli inumani campi di concentramento ed infine 
+                    che imparino a conoscere il popolo tedesco, quell’essere inumano, quel vile bugiardo popolo, 
+                    dal cui cuore ogni pietà o amore delle belle cose è stato fugato dalla crudele furia devastatrice, 
+                    dall’amor proprio, dalla sete del dominio. Ma ricordati, tutte le lagrime che fai versare, 
+                    tutti i cuori che fai soffrire, interpreteranno presso l’altissimo,
+                    e la maledizione di Dio cadrà su di te.
+                </p>
+                <p>
+
+                    LA CRAU (TOLONE), FRANCIA, principio di settembre 1943
+                    Badoglio, con un colpo di stato, sbalza dal potere Mussolini e assume il comando dell’esercito dell’Italia. Lo stato Fascista si scioglie; si hanno le vendette personali, lo sfogo dei rancori delle amarezze accumulate in 20 anni di Regime Fascista, avviene la caccia all’uomo.
+                    In quei giorni ero lontano dalla Patria, ero a 12 km da Tolone- La Crau- con le truppe di occupazione, di presidio. Sebbene in terra straniera, così lontano, pur tuttavia l’eco degli avvenimenti italiani era così forte che arrivava fino a noi.
+                    Badoglio chiede e conclude un armistizio con gli Alleati il giorno 3/09/1943; intanto da ordine alle armate che si trovano all’estero di rientrare in Patria. Noi in Francia si ignorava ancora l’armistizio, ma contenti si attendeva il momento del rientro che già doveva essere stato effettuato il 6 e che malauguratamente ritardava di giorno in giorno. Il P.A.M., le polveriere, i proiettili dei nostri cannoni erano già alla “Gare”, in attesa di essere invagonati, noi si sarebbe partiti in autocolonna. Ma…non si partiva. Perché… Perché? Perché non si parte? L’eterna assillante domanda che tutti si rivolgevano.
+                    Sentivamo, o meglio, intuivamo l’aria carica di elettricità, ma se ne ignorava il motivo.
+                    Come d’estate a ciel sereno, all’estremo limite dell’orizzonte s’ode il brontolio del tuono e, non si può non si può credere che in un cielo così terso debba da un momento all’altro scoppiare il temporale, e quando poi la grandine s’avventa terribile sulla campagna del buon colono, si resta così, di stucco, malamente sorpresi, quasi non ci si può credere; così la sera dell’otto settembre.
+                    Ero fermo nell’angolo della piazza ad aspettare i colleghi per andare a mensa, notai i Francesi che ci squadravano. Notavo dei sorrisetti ironici, delle allocuzioni. Madame Charlot mi si avvicina “E non sai, mi dice, non sapete, nulla?”. Ad un mio diniego mi spiattella:” L’Italia ha firmato l’armistizio con gli alleati”. La notizia è troppo inaspettata, mi sbalordisce. Non ci credo, non posso crederci! Lei mi assicura, io protesto, Arriva un’altra donna che mi assicuro la “meme chose”. Ben presto si forma un gruppetto di borghesi che cercano di convincermi. Ognuno raccontandolo a suo modo. Ma passa il mio collega bianchini e mi trascina via. Lo guardo in faccia, ha gli occhi sorridenti e le mani che tremano, tutto il suo essere vibra. Presto si va a casa, dice. Ed è finita, l’Italia ha chiesto ed ottenuto l’armistizio, ed io stesso ho sentito alla radio il proclama che Badoglio ha lanciato a tutti gli italiani. Quella sera a mensa ci furono grandi discussioni. 
+                    Quando più tardi uscimmo, tutti avevano le spalle ricurve come oppressi da un gran peso. Ci siamo arresi! La guerra è persa! Che fine! E tutti i sacrifici? Tutte le giovani vite immolate?
+                    Da una parte però ci sorrideva il prossimo ritorno presso le famiglie.
+                </p>
+                <p>
+                    E i Tedeschi? 
+                    Nessuno ci pensava. Eppure, bisognava pensarci. Nei pressi della mensa incontro un fornaio che gentilmente il suo aiuto se un domani avessi avuto bisogno di prendere la fuga. Sorridendo lo ringrazio, credendo illuso, che esagerasse. Ben presto dovevo convincermi che l’illuso ero io e non lui. Al comando tutti si davano da fare: montano mitragliatrici, sbarrano con grossi lamieroni ricurvi le entrate, i cancelli, preparano i bottini.
+                    Non appena mi vede, un sottotenente mi pesca e mi piazza davanti ad una mitragliatrice. 
+                    -“La sai adoperare?”.
+                    Ma, dico io, sono domande da farsi ad un sergente?
+                </p>
+                <p>
+                    Scelgo la mia squadra e, carico i nastri e piazzo la mia arma in un luogo propizio. La consegna:
+                    Non arrendersi, non cedere l’arma, piuttosto metterla fuori uso. 
+                    L’animazione è grande, ma noi siamo decisi? Tanto da un pezzo lo sussurravamo, 
+                    da molto lo desideravamo, si diceva che un giorno o l’altro si doveva pur venire alle mani
+                     con i nostri odiati alleati. 
+                    Alle ore 22 cominciano ad arrivare le notizie. Il cap. medico esce per andare a casa 
+                    con due altri ufficiali. 
+                </p>
+                <p>
+                    Ad un bivio vengono fermati da una pattuglia di tedeschi. Uno degli ufficiali riesce nell’oscurità 
+                    a squagliarsi e viene da noi a raccontarci l’accaduto. A seguito di tale incidente gli ufficiali 
+                    che erano rimasti ancora al comando, decidono, per quella notte, di pernottare da noi, 
+                    rinunciando alle delizie di un buon materasso di lana. 
+                    A mezzanotte il Colonello Comandante parte per Hieres al Comando Artiglieria per avere ordini; 
+                    non usando il telefono per tema che qualche tedesco innestato possa intercettare la comunicazione.
+                    Intanto da noi il nervosismo dei Comandanti cresce a dismisura.
+                </p>
+                <p>
+                    L’unico a non perdere la bussola, D. Luigi, il buon Cappellano, 
+                    si aggira tra i gruppi dei soldati all’erta, esortando alla calma.
+                    Dal Comando Artiglieria il colonnello ci telefona, ordinando di mandargli una scorta per
+                     paura di paura di qualche posto di blocco dei tedeschi.
+                    Parte una motocicletta ed una mimetica 1100 con tre uomini armati fino ai denti. 
+                    Io faccio parte della spedizione. Stringo tra le mani una pistola mitragliatrice con 
+                    pallottola in canna, il moschetto carico a tracolla e nelle tasche quattro bombe a mano.
+                </p>
+            </div>
+        </body>
+    </text>
+</TEI>
+

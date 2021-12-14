@@ -1,0 +1,28 @@
+<?xml version="1.1" encoding="UTF-8"?>
+
+<!--utilizzare puntatori, note, lista, glossario marcare nomi, rs, term-->
+
+<TEI>
+    <teiHeader>
+    </teiHeader>
+    <text>
+        <!--esempio puntatori-->
+        <p> vedi pagina 1 <ref> pagina 1, riga 23 </ref></p>
+        <!-- esempio note-->
+        <note>nota</note>
+        <!-- esempio lista-->
+        <list type ="simple">
+            <head> lista nomi </head>
+            <item> Pietro </item>
+            <item> Carlo </item>
+            <item> Alessio </item>
+        </list>
+        <!-- esempio glossario e term-->
+        <term> triangolo rettangolo </term> <gloss> è un triangolo con un angolo retto</gloss>
+        <!-- esempio rs-->
+        <q> Ciao <rs type="person"> Pietro </rs> </q>
+        <!-- marcare nome-->
+        <q> Ciao <name type="person"> Pietro </name> </q>
+    </text>
+</TEI>
+ 
